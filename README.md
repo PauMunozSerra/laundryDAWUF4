@@ -1,6 +1,6 @@
 # laundry management system
 
-## Nou canvi en decelop
+## Nou canvi en decelop lletra g)
 
 ## Actualitzacio de README en featurePMS
 
