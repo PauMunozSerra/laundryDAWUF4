@@ -13,6 +13,7 @@
 <body>
   <section class="container">
     <div class="login">
+      // COMENTARI DEL CODI
       <h1>Login to Laundry Shop</h1>
       <form method="post" id="form-login">
         <p><input autofocus type="text" id="username" value="" placeholder="Username" required></p>
