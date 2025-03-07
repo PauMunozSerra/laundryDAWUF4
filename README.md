@@ -1,5 +1,7 @@
 # laundry management system
 
+Pau Munoz Serra - Propietari
+
 ## Nou canvi en decelop
 
 ## Actualitzacio de README en featurePMS
