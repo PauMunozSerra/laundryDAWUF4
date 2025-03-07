@@ -1,5 +1,8 @@
 # laundry management system
+
 # Alba Matamoros - col.laboradora
+Pau Munoz Serra - Propietari
+
 ## Nou canvi en decelop
 
 ## Actualitzacio de README en featurePMS
